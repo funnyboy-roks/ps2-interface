@@ -21,7 +21,7 @@ pressed (i.e. `Ctrl + b` -> `<C-b>`).
 The circuit is very simple, since hardware is connected directly to the
 Arduino.
 
-![circuit](./circuit.svg)
+![circuit](./circuit.png)
 
 The only note that I have regarding the circuit is that the Keyboard's
 PS/2 power is plugged directly into an Arduino output so we can turn it
